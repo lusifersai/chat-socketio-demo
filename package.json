@@ -1,0 +1,12 @@
+{
+  "name": "chat-socketio-demo",
+  "version": "1.0.0",
+  "description": "A very simple real-time chatroom app built with NodeJS, Express and SocketIO",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.1"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
