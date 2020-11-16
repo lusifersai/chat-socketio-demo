@@ -6,7 +6,8 @@ Socketio implemented chat demo
 
 
 npm install
-\n
+
+##
 npm start
 
 ******
